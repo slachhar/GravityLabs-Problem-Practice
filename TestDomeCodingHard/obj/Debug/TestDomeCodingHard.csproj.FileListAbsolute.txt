@@ -1,0 +1,7 @@
+D:\GitCode\GravityLabs\TestDomeCodingHard\bin\Debug\TestDomeCodingHard.exe.config
+D:\GitCode\GravityLabs\TestDomeCodingHard\bin\Debug\TestDomeCodingHard.exe
+D:\GitCode\GravityLabs\TestDomeCodingHard\bin\Debug\TestDomeCodingHard.pdb
+D:\GitCode\GravityLabs\TestDomeCodingHard\obj\Debug\TestDomeCodingHard.csprojAssemblyReference.cache
+D:\GitCode\GravityLabs\TestDomeCodingHard\obj\Debug\TestDomeCodingHard.csproj.CoreCompileInputs.cache
+D:\GitCode\GravityLabs\TestDomeCodingHard\obj\Debug\TestDomeCodingHard.exe
+D:\GitCode\GravityLabs\TestDomeCodingHard\obj\Debug\TestDomeCodingHard.pdb
